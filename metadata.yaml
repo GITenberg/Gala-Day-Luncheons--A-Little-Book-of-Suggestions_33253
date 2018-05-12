@@ -1,0 +1,26 @@
+_repo: Gala-Day-Luncheons--A-Little-Book-of-Suggestions_33253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benton, Caroline French
+    alias: Burrell, Caroline Frances Benedict
+    gutenberg_agent_id: '6759'
+    url: http://www.gutenberg.org/2009/agents/6759
+description: ''
+gutenberg_issued: '2010-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcsh 'Luncheons'
+- !lcc 'TX'
+title: 'Gala-Day Luncheons: A Little Book of Suggestions'
+url: http://www.gutenberg.org/ebooks/33253
